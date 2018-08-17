@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Desktop/creed2/creed2.github.io",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
