@@ -1,6 +1,5 @@
-script{
-  font-family: "Roboto Regular";
-}
-demo{
-  font-family: "Roboto Regular";
+p{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 100px;
 }
